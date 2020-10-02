@@ -1,0 +1,2 @@
+rootProject.name='MoviesTabBasic'
+include ':app'

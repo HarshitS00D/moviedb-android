@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="moviePoster"> Movie Poster </string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_overview">Overview</string>
+    <string name="movie_relasedate">Release date</string>
+    <string name="movie_rating">Rating</string>
+    <string name="movie_trailers">Trailers</string>
+    <string name="movie_reviews">Reviews</string>
+</resources>

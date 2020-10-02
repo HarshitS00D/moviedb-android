@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#6200EE</color>-->
+    <color name="colorPrimary">#12cad6</color>
+    <color name="colorPrimaryDark">#12cad6</color>
+    <color name="colorAccent">#00ccb8</color>
+    <color name="lightOrange">#ffbb33</color>
+    <color name="yellow">#ffe75e</color>
+    <color name="purple">#4f98ca</color>
+<!-- original accent greenBlue   #03DAC5   primary 3700b3 -->/
+    <color name="black"> #171717 </color>
+    <color name="white">#fff</color>
+    <color name="pitchBlack">#000000</color>
+    <color name="lightGray">#ababab</color>
+    <color name="ratingTextColor">#c90051</color>
+</resources>
